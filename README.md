@@ -1,5 +1,5 @@
 - Hi, I’m Cole.
-- I’m interested in coding and software engineering
+- I’m interested in coding and software engineering.
 - I’m currently learning the basics of coding.
 
 <!---
